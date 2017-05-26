@@ -22,6 +22,7 @@ namespace WpfApplication1
     {
         public MainWindow()
         {
+            //COMMENTO A CASO
             InitializeComponent();
         }
 
